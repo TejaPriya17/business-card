@@ -1,0 +1,39 @@
+body
+{
+	font-family: courier;
+	margin:20px;
+}
+
+.avatar
+{
+	width:150px;
+	height:150px;  
+
+}
+
+.card
+{   
+	margin: 0px auto;
+	
+	color: #c9184a;
+	width: 400px;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center; 
+	background: #ff99ac;
+
+	
+
+}
+
+.border
+{
+	
+	border-bottom: 6px solid #ff477e;
+}
+
+.wrap2
+{
+	color: #2b2839;
+}
